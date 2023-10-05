@@ -152,7 +152,7 @@ module.exports = {
       accounts: [ process.env.PRIVATE_KEY],
     },    
     base: {
-      url: `https://base.blockpi.network/v1/rpc/public`,
+      url: `https://developer-access-mainnet.base.org`,
       chainId: 8453,
       accounts: [ process.env.PRIVATE_KEY],
     },

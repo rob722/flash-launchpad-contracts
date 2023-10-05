@@ -112,3 +112,4 @@ artifacts/
 deployments/
 .openzeppelin/
 
+bin
